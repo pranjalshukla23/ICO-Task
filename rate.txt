@@ -1,0 +1,37 @@
+
+0.01 USD = 0.00000309 ether
+
+0.01 USD = 3.0 X 10^12 wei
+
+we have a decimals of 18, so we’ll use 10 ^ 18 TKNbits instead of 1 TKN
+
+therefore, if the participant sends the crowdsale 3 * 10^12 wei we should give them 10 ^ 18 TKNbits
+
+3.0 x 10^12 wei = 10^18 TKNBits
+
+1 wei = 10^18/3.0 x 10^12 
+
+= 0.333333 x 10^6
+
+= 326797
+
+0.02 rate - 163398
+
+
+
+
+0.02 USD = 0.00000618 ether
+
+0.02 USD = 6.18 X 10^12 wei
+
+we have a decimals of 18, so we’ll use 10 ^ 18 TKNbits instead of 1 TKN
+
+therefore, if the participant sends the crowdsale 6.18 * 10^12 wei we should give them 10 ^ 18 TKNbits
+
+6.18 x 10^12 wei = 10^18 TKNBits
+
+1 wei = 10^18/6.18 x 10^12 
+
+= 0.161812 x 10^6
+
+= 161812
