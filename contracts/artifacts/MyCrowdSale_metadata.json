@@ -91,6 +91,21 @@
 			{
 				"constant": true,
 				"inputs": [],
+				"name": "stage",
+				"outputs": [
+					{
+						"internalType": "enum Crowdsale.CrowdSaleStage",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
 				"name": "token",
 				"outputs": [
 					{
@@ -181,10 +196,10 @@
 			]
 		},
 		"@openzeppelin/contracts/crowdsale/Crowdsale.sol": {
-			"keccak256": "0x37fd8f300043fbc768291a88cf00d00e792e8866ecfd8e2f71126fd3ff65d103",
+			"keccak256": "0xabdd6540533a259f49296aa705b6177adabd7c2a9928d62fc15c30e07a2e67cc",
 			"urls": [
-				"bzz-raw://0ad31c7f05b87372f92e0a4365fd00b5bc2c643a150a8993e630f1de2e5c3e92",
-				"dweb:/ipfs/QmdGCWJEZBnS7KdFCaxWdAMmN2b43q4NwNAXDq49BLxBgi"
+				"bzz-raw://4df7e3af30a85db98da9668f9380dcd6fecd03b89b5c216826adbdfbbd495c9a",
+				"dweb:/ipfs/QmWNjcujMk2ssWnf5pQfKPYybkK9vnr51cYyk977ZzHL4M"
 			]
 		},
 		"@openzeppelin/contracts/math/SafeMath.sol": {
